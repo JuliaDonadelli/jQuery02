@@ -1,0 +1,27 @@
+.link-foto-1 img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    cursor: zoom-in;
+}
+
+.link-foto-2 img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    cursor: zoom-in;
+}
+
+.link-foto-3 img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    cursor: zoom-in;
+}
+
+.link-foto-4 img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    cursor: zoom-in;
+}
